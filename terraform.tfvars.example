@@ -1,0 +1,5 @@
+aws_region          = "ap-south-1"
+cluster_name        = "platform-sandbox"
+kubernetes_version  = "1.31"
+vpc_cidr            = "10.40.0.0/16"
+public_access_cidrs = ["203.0.113.10/32"]
